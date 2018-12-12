@@ -1,0 +1,110 @@
+[33mcommit 96255a29b1c8bf5b340b46d4c342550c874dcc5d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mupstream/master[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mlast_branch[m[33m)[m
+Author: ZitaNemeckova <znemecko@redhat.com>
+Date:   Mon Dec 10 13:14:24 2018 +0100
+
+    Update instructions
+
+[33mcommit 7ca1a6e179b4100c787bc221472b34b2e43113e2[m
+Author: lpichler <lpichler@redhat.com>
+Date:   Wed Dec 5 10:34:04 2018 +0100
+
+    last class
+
+[33mcommit 6df5d0ab6c41258977e96cafd896ced834feafdf[m
+Merge: 572312b 97d28db
+Author: Martin Hradil <himdel@seznam.cz>
+Date:   Thu Nov 15 09:30:34 2018 +0100
+
+    Merge pull request #45 from ZitaNemeckova/rebase_task_conflicts
+    
+    Rebase task - conflicts
+
+[33mcommit 572312bc57016e9c6e0230b2f8cbd5751cdc0090[m
+Merge: 639cd80 8d97c66
+Author: ZitaNemeckova <znemecko@redhat.com>
+Date:   Thu Nov 15 07:37:21 2018 +0100
+
+    Merge pull request #46 from ZitaNemeckova/rebase_i
+    
+    Interactive rebase for 2nd group
+
+[33mcommit 8d97c66733015700c73e7c44d498972d3d5a7621[m
+Author: Zita Nemeckova <znemecko@redhat.com>
+Date:   Thu Nov 15 07:32:17 2018 +0100
+
+    Update instructions for 4th class 2nd group
+
+[33mcommit 18e3ff5bf6b96f4c41219adba80c2ef4572d5610[m
+Author: Zita Nemeckova <znemecko@redhat.com>
+Date:   Thu Nov 15 07:08:22 2018 +0100
+
+    File to edit
+
+[33mcommit 97d28db5574c67ecc35a497a13b19a43b13d64c8[m
+Author: Zita Nemeckova <znemecko@redhat.com>
+Date:   Thu Nov 15 07:01:15 2018 +0100
+
+    Rebase task - conflicts
+
+[33mcommit 639cd8038101748c49064dc53c181d9476527f57[m
+Merge: ddb1541 5d991df
+Author: ZitaNemeckova <znemecko@redhat.com>
+Date:   Thu Nov 15 06:56:33 2018 +0100
+
+    Merge pull request #44 from ZitaNemeckova/rebase_task
+    
+    Rebase task
+
+[33mcommit 5d991df9fef479dd85eda1f02ac6e5186191a11b[m
+Author: Zita Nemeckova <znemecko@redhat.com>
+Date:   Thu Nov 15 06:56:10 2018 +0100
+
+    Rebase task
+
+[33mcommit ddb1541022a356b7c4f241f7e4c2e7db4282540e[m
+Author: Martin Maroši <marvusm.mmi@gmail.com>
+Date:   Mon Nov 5 13:52:30 2018 +0100
+
+    Update README.md
+
+[33mcommit 81f855aef885fbca771360a7d33737b7c8488eef[m
+Author: Martin Maroši <marvusm.mmi@gmail.com>
+Date:   Sun Nov 4 16:48:13 2018 +0100
+
+    Create conflicts for the first group.
+
+[33mcommit 2b37f850dc2fa8c251e0d334ae526bbaf5ab4eaa[m
+Author: Martin Maroši <marvusm.mmi@gmail.com>
+Date:   Sun Oct 21 18:49:52 2018 +0200
+
+    Update README.md
+
+[33mcommit 2fa855f55e255775689a14eba4541abf54235282[m
+Author: Martin Maroši <marvusm.mmi@gmail.com>
+Date:   Wed Oct 10 20:13:24 2018 +0200
+
+    Update README.md
+
+[33mcommit 1000167d1de39350da8d2879f89c28be33747f6b[m
+Author: Martin Hradil <mhradil@redhat.com>
+Date:   Tue Sep 25 14:17:39 2018 +0000
+
+    image link
+
+[33mcommit 1300b9c3d526e17c33ac146d6d18122ef2504011[m
+Author: Martin Hradil <mhradil@redhat.com>
+Date:   Fri Sep 21 11:42:45 2018 +0000
+
+    README - lecture location
+
+[33mcommit 6a883dd0b34d4c873fe86e4be9a9633ddd838622[m
+Author: Martin Hradil <mhradil@redhat.com>
+Date:   Thu Sep 20 12:39:08 2018 +0000
+
+    typo fix
+
+[33mcommit ba4ec5f431dd49f3a4292a50526e199623b9947c[m
+Author: Martin Hradil <mhradil@redhat.com>
+Date:   Thu Sep 20 12:38:19 2018 +0000
+
+    inital README
